@@ -1,4 +1,4 @@
-FROM golang:1.14.15-alpine3.13 as builder
+FROM golang:1.19.5-bullseye as builder
 
 
 # Build the Docker image first
