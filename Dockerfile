@@ -1,4 +1,4 @@
-FROM golang:1.19.6-buster as builder
+FROM golang:1.19.7-buster as builder
 
 
 # Build the Docker image first
